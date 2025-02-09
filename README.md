@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<img align="right" src="https://profile-counter.glitch.me/ananyatiw15/count.svg?"  />
+
 
 ###
 
