@@ -1,5 +1,7 @@
+<br clear="both">
+
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fgirl-coding-web-page-girl-coding-web-page-listening-to-music-night-image253185016&psig=AOvVaw2oCl7Z1aQS6ZRiOVBtgngM&ust=1739191084021000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiF2erNtosDFQAAAAAdAAAAABAE"  />
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"  />
 </div>
 
 ###
@@ -12,9 +14,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ananyatiw15.ananyatiw15&"  />
-</div>
+<br clear="both">
+
+<img align="right" src="https://profile-counter.glitch.me/ananyatiw15/count.svg?"  />
 
 ###
 
